@@ -16,7 +16,7 @@ This project implements an object detection pipeline tailored for challenging en
 - `scripts/` — Code for preprocessing, training, evaluation, and inference.
 - `deployment/` — ONNX and TensorRT optimized models and deployment guides.
 - `output_logs/` — Scripts and results for FPS and latency benchmarking.
-- `output_images/` — object detected images with bounding boxes
+- `output_images/` — object detected images with bounding boxes. also few dehazed images
 
 ## Usage
 Refer to the `scripts/` directory for instructions on running preprocessing, training, and inference. Use the `deployment/` folder for deployment on Jetson Nano or Raspberry Pi 4.
