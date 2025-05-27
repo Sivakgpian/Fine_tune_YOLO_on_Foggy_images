@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['bike', 'bus', 'car', 'clock', 'cycke', 'cycle', 'human', 'notice', 'scooty', 'truck']
+
+roboflow:
+  workspace: sivakgp
+  project: foggy_city_annotations_30images
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sivakgp/foggy_city_annotations_30images/dataset/1
