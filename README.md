@@ -1,4 +1,4 @@
-# Edge Object Detection Pipeline for Low-Light and Foggy Environments
+# Object Detection Pipeline for Low-Light and Foggy Environments
 
 ## Overview
 This project implements an object detection pipeline tailored for challenging environments such as low-light, foggy, and blurred video feeds typically captured by drones or underwater cameras. The solution is optimized for deployment on resource-constrained edge devices like NVIDIA Jetson Nano and Raspberry Pi 4.
